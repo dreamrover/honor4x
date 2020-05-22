@@ -1,51 +1,56 @@
 ## honor4x
-»ªÎªÈÙÒ«³©Íæ4xÈ«ÍøÍ¨ÊÖ»ú£¨Che1-CL20£©½âËø¡¢Éı¼¶¡¢Ë¢Èëtwrp¼°LineageOS 
+åä¸ºè£è€€ç•…ç©4xå…¨ç½‘é€šæ‰‹æœºï¼ˆChe1-CL20ï¼‰è§£é”ã€å‡çº§ã€åˆ·å…¥twrpåŠLineageOS 
 
-´Ë¿îÊÖ»úÊÇÊ×¿îÖ§³Ö4GÈ«ÍøÍ¨µÄ¾­µäÇ§Ôª»ú£¬´îÔØµÄCPUÊÇ¸ßÍ¨æçÁú410£¬ËäÈ»Ö§³Ö64Î»£¬µ«64Î»Ä£Ê½²¢Î´¿ªÆô£¬ËùÒÔÏµÍ³ºÍÓ¦ÓÃÖ»ÄÜ°²×°32Î»µÄ¡£
+æ­¤æ¬¾æ‰‹æœºæ˜¯é¦–æ¬¾æ”¯æŒ4Gå…¨ç½‘é€šçš„ç»å…¸åƒå…ƒæœºï¼Œæ­è½½çš„CPUæ˜¯é«˜é€šéªé¾™410ï¼Œè™½ç„¶æ”¯æŒ64ä½ï¼Œä½†64ä½æ¨¡å¼å¹¶æœªå¼€å¯ï¼Œæ‰€ä»¥ç³»ç»Ÿå’Œåº”ç”¨åªèƒ½å®‰è£…32ä½çš„ã€‚
 
-ÊÖ»úÔ­×°ÏµÍ³ÊÇEMUI 3.0 (Android 4.4) V100R001CHNC00B288£¬Èç¹ûÏµÍ³²»¾­Éı¼¶Ö±½ÓË¢ÈëLineageOS 15.1 (Android 8.1)£¬»á³öÏÖÎŞ·¨¹Ò¶Ïµç»°µÄÎÊÌâ£»
+æ‰‹æœºåŸè£…ç³»ç»Ÿæ˜¯EMUI 3.0 (Android 4.4) V100R001CHNC00B288ï¼Œå¦‚æœç³»ç»Ÿä¸ç»å‡çº§ç›´æ¥åˆ·å…¥LineageOS 15.1 (Android 8.1)ï¼Œä¼šå‡ºç°æ— æ³•æŒ‚æ–­ç”µè¯çš„é—®é¢˜ï¼›
 
-ËùÒÔĞèÒªÉı¼¶µ½¹Ù·½µÄEMUI 4.0.1 (Android 6.0) C00B440£¬µ«ÊÇÓÉÓÚ´æ´¢·ÖÇø²î±ğºÜ´ó£¨ÈçEMUI3.0Ã»ÓĞerecoveryµÈ£©£¬²»ÄÜÖ±½Ó´ÓEMUI3.0Éı¼¶ÖÁ4.0.1£¬ĞèÏÈÉı¼¶µ½EMUI 3.1 (Android 5.1) C00B316£¬ÔÙÉı¼¶ÖÁEMUI4.0.1£»Éı¼¶·½·¨¼ûChe1-CL20C00B316 °æ±¾Éı¼¶Ö¸µ¼Êé.pdf£¨Ö¸µ¼ÊéÖĞÃ»ËµB288¿ÉÒÔÉı¼¶ÖÁB316£¬µ«Êµ²â¿ÉÒÔ£©¡£
+æ‰€ä»¥éœ€è¦å‡çº§åˆ°å®˜æ–¹çš„EMUI 4.0.1 (Android 6.0) C00B440ï¼Œä½†æ˜¯ç”±äºå­˜å‚¨åˆ†åŒºå·®åˆ«å¾ˆå¤§ï¼ˆå¦‚EMUI3.0æ²¡æœ‰erecoveryç­‰ï¼‰ï¼Œä¸èƒ½ç›´æ¥ä»EMUI3.0å‡çº§è‡³4.0.1ï¼Œéœ€å…ˆå‡çº§åˆ°EMUI 3.1 (Android 5.1) C00B316ï¼Œå†å‡çº§è‡³EMUI4.0.1ï¼›å‡çº§æ–¹æ³•è§Che1-CL20C00B316 ç‰ˆæœ¬å‡çº§æŒ‡å¯¼ä¹¦.pdfï¼ˆæŒ‡å¯¼ä¹¦ä¸­æ²¡è¯´B288å¯ä»¥å‡çº§è‡³B316ï¼Œä½†å®æµ‹å¯ä»¥ï¼‰ã€‚
 
-EMUI3.1ÏÂÔØµØÖ·£¨Ã²ËÆÊ§Ğ§ÁË£©£ºhttps://club.huawei.com/thread-6617843-1-1.html
+EMUI3.1ä¸‹è½½åœ°å€ï¼ˆè²Œä¼¼å¤±æ•ˆäº†ï¼‰ï¼šhttps://club.huawei.com/thread-6617843-1-1.html
 
 http://download-c.huawei.com/download/downloadCenter?downloadId=59705&version=194189&siteCode=
 
-EMUI4.0.1ÏÂÔØµØÖ·£ºhttps://club.huawei.com/thread-11625493-1-1.html
+EMUI4.0.1ä¸‹è½½åœ°å€ï¼šhttps://club.huawei.com/thread-11625493-1-1.html
 
 http://update.hicloud.com:8180/TDS/data/files/p3/s15/G1050/g223/v78343/f1/full/update.zip
 
-## ½âËø
+## è§£é”
 * adb reboot bootloader
-* fastboot oem unlock 0483614783261389£¨Ìæ»»³Éµ±Ç°ÊÖ»úµÄ½âËøÂë£©
+* fastboot oem unlock 0483614783261389ï¼ˆæ›¿æ¢æˆå½“å‰æ‰‹æœºçš„è§£é”ç ï¼‰
 * fastboot oem get-bootinfo
 
-## Ë¢ÈëTWRP
+## åˆ·å…¥TWRP
 * adb reboot bootloader
 * fastboot flash recovery twrp_3.2.3-0_O_cherry.img /
 * fastboot reboot
 * adb reboot recovery
-Ò²¿ÉÒÔ²»Ë¢Èëflash£¬Ö±½ÓÆô¶¯ÖÁTWRP£º
+
+ä¹Ÿå¯ä»¥ä¸åˆ·å…¥flashï¼Œç›´æ¥å¯åŠ¨è‡³TWRPï¼š
 * fastboot boot twrp_3.2.3-0_O_cherry.img
 
-## Ë¢ÈëµÚÈı·½ROM¡¢GAPPS¡¢Root¼°Xposed
-ÔÚTWRPÖĞ£¬½øÈëadvance->sideload£º
+## åˆ·å…¥ç¬¬ä¸‰æ–¹ROMã€GAPPSã€RootåŠXposed
+åœ¨TWRPä¸­ï¼Œè¿›å…¥advance->sideloadï¼š
 * adb sideload lineage-15.1-20200225-nightly-cherry-signed.zip
 * adb sideload open_gapps-arm-8.1-pico-20200325.zip
 * adb sideload addonsu-15.1-arm-signed.zip
 * adb sideload xposed-v90-sdk27-arm-beta3.zip
 * adb reboot
-Ò²¿ÉÒÔÔÚTWRPÖĞµã»÷Install£¬´ÓSD¿¨ÖĞ°²×°ÉÏÊözip°ü
 
-## °²×°±ØÒªAPP
-°²×°Xposed APP£¬ĞèÊÚÓèrootÈ¨ÏŞ£º
+ä¹Ÿå¯ä»¥åœ¨TWRPä¸­ç‚¹å‡»Installï¼Œä»SDå¡ä¸­å®‰è£…ä¸Šè¿°zipåŒ…
+
+## å®‰è£…å¿…è¦APP
+å®‰è£…Xposed APPï¼Œéœ€æˆäºˆrootæƒé™ï¼š
 * adb install XposedInstaller_3.1.5.apk
-Èô¾àÀë´«¸ĞÆ÷Ê§Áéµ¼ÖÂ½Ó´òµç»°ºÚÆÁ£¬Ğè°²×°SensorDisabler£¬ÔÚXposedÖĞÆôÓÃ´ËÄ£¿é£¬È»ºóÔÚÄ£¿éÖĞ½«ProximityÉèÖÃÎª¹Ì¶¨Öµ£º
+
+è‹¥è·ç¦»ä¼ æ„Ÿå™¨å¤±çµå¯¼è‡´æ¥æ‰“ç”µè¯é»‘å±ï¼Œéœ€å®‰è£…SensorDisablerï¼Œåœ¨Xposedä¸­å¯ç”¨æ­¤æ¨¡å—ï¼Œç„¶ååœ¨æ¨¡å—ä¸­å°†Proximityè®¾ç½®ä¸ºå›ºå®šå€¼ï¼š
 * adb install SensorDisabler.apk
-Ç½ÄÚÓÃ»§ÖØÖÃ´ËURLÒÔÃâWifiÏÔÊ¾Á´½ÓÊ§°Ü£º
+
+å¢™å†…ç”¨æˆ·é‡ç½®æ­¤URLä»¥å…Wifiæ˜¾ç¤ºé“¾æ¥å¤±è´¥ï¼š
 * adb shell "settings put global captive_portal_https_url https://captive.lineageos.org.cn/generate_204";
-°²×°RootExplorer£¨CXÎÄ¼ş¹ÜÀíÆ÷ºÍFVÎÄ¼ş¹ÜÀíÆ÷Ò²ÖµµÃÍÆ¼ö£©£º
+
+å®‰è£…RootExplorerï¼ˆCXæ–‡ä»¶ç®¡ç†å™¨å’ŒFVæ–‡ä»¶ç®¡ç†å™¨ä¹Ÿå€¼å¾—æ¨èï¼‰ï¼š
 * adb install RootExplorer_v4.2.4.apk
 * adb reboot
 
-£¨de.robv.android.xposed.installer_v33_36570c.apkÊÇÓÃÓÚAndroid 4.4µÄ£¬ÒÑÉı¼¶»òË¢ÈëÆäËûÏµÍ³²»Òª°²×°´Ëapk£»recovery.imgÊÇEMUI3.0µÄÔ­³§recovery¡££©
+ï¼ˆde.robv.android.xposed.installer_v33_36570c.apkæ˜¯ç”¨äºAndroid 4.4çš„ï¼Œå·²å‡çº§æˆ–åˆ·å…¥å…¶ä»–ç³»ç»Ÿä¸è¦å®‰è£…æ­¤apkï¼›recovery.imgæ˜¯EMUI3.0çš„åŸå‚recoveryã€‚ï¼‰
