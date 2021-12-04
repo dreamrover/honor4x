@@ -22,7 +22,7 @@ http://update.hicloud.com:8180/TDS/data/files/p3/s15/G1050/g223/v78343/f1/full/u
 
 ## 刷入TWRP
 * adb reboot bootloader
-* fastboot flash recovery twrp_3.2.3-0_O_cherry.img /
+* fastboot flash recovery twrp_3.2.3-0_O_cherry.img
 * fastboot reboot
 * adb reboot recovery
 
